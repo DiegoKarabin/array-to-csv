@@ -10,5 +10,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "autoload": {
+    	"psr-4": {
+    		"ArrayToCsv\\": "src/ArrayToCsv/"
+    	}
+    },
+    "require": {
+        "php": "^7"
+    }
 }
