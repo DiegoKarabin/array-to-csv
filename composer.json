@@ -1,0 +1,14 @@
+{
+    "name": "diego-karabin/array-to-csv",
+    "description": "Library to generate .csv files from an associative array.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Karabin",
+            "email": "diegokarabin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
